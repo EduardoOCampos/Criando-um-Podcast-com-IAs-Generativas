@@ -1,0 +1,5 @@
+Prompt para Bing Image Creator (DALL·E 3)
+“Capa de podcast hiper-realista e futurista, formato quadrado (1:1). Cena noturna em um hangar espacial de alta tecnologia: silhueta de Dudão vista de costas, empunhando um sabre de luz turquesa formado por uma chave ‘{ }’ luminosa. Reflexos neon azuis e amarelos nas paredes metálicas escovadas; hologramas de código CSS flutuando como constelações; céu estrelado e nebulosas azul-esmeralda ao fundo. Iluminação cinematográfica com forte contraste, texturas realistas em 8K, partículas de poeira iluminadas no ar, atmosfera épica de ópera espacial.”
+
+Prompt para Ideogram.ai
+“[hyperrealistic] [futuristic] [concept-art] Capa 1:1 para podcast ‘Saga da Interface: O Império do Código’ – cena noturna em hangar espacial high-tech. Silhueta de Dudão de costas segurando sabre de luz turquesa em forma de chave { }. Reflexos neon azul/amarelo em metal escovado, hologramas de código flutuando, céu estrelado com nebulosas verde-azul. Iluminação cinematográfica, contraste alto, detalhes 8K, poeira visível no ar, clima épico de ópera espacial.”
